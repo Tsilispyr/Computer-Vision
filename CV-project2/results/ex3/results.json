@@ -1,0 +1,50 @@
+{
+  "CNN_exp1_baseline": {
+    "epochs": 10,
+    "lr": 0.001,
+    "dropout": 0.3,
+    "val_acc": 0.577,
+    "final_val_acc": 0.571,
+    "elapsed_min": 0.62
+  },
+  "CNN_exp2_more_epochs": {
+    "epochs": 20,
+    "lr": 0.0005,
+    "dropout": 0.3,
+    "val_acc": 0.661,
+    "final_val_acc": 0.658,
+    "elapsed_min": 1.1
+  },
+  "CNN_exp3_high_dropout": {
+    "epochs": 10,
+    "lr": 0.001,
+    "dropout": 0.5,
+    "val_acc": 0.525,
+    "final_val_acc": 0.52,
+    "elapsed_min": 0.55
+  },
+  "ViT_exp1_baseline": {
+    "epochs": 10,
+    "lr": 0.001,
+    "dropout": 0.1,
+    "val_acc": 0.401,
+    "final_val_acc": 0.4,
+    "elapsed_min": 2.22
+  },
+  "ViT_exp2_more_epochs": {
+    "epochs": 20,
+    "lr": 0.0005,
+    "dropout": 0.1,
+    "val_acc": 0.471,
+    "final_val_acc": 0.461,
+    "elapsed_min": 4.49
+  },
+  "ViT_exp3_higher_lr": {
+    "epochs": 10,
+    "lr": 0.002,
+    "dropout": 0.1,
+    "val_acc": 0.407,
+    "final_val_acc": 0.407,
+    "elapsed_min": 2.07
+  }
+}

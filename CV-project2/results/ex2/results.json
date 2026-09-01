@@ -1,0 +1,26 @@
+{
+  "PET_exp1_baseline": {
+    "epochs": 5,
+    "lr": 0.001,
+    "base_channels": 16,
+    "val_miou": 0.6128,
+    "val_pixel_acc": 0.837,
+    "elapsed_min": 4.3
+  },
+  "PET_exp2_more_epochs": {
+    "epochs": 10,
+    "lr": 0.0005,
+    "base_channels": 16,
+    "val_miou": 0.6463,
+    "val_pixel_acc": 0.8568,
+    "elapsed_min": 4.66
+  },
+  "PET_exp3_larger_model": {
+    "epochs": 5,
+    "lr": 0.001,
+    "base_channels": 32,
+    "val_miou": 0.588,
+    "val_pixel_acc": 0.8275,
+    "elapsed_min": 5.99
+  }
+}

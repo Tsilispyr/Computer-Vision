@@ -1,0 +1,26 @@
+{
+  "SBD_exp1_baseline": {
+    "epochs": 5,
+    "lr": 0.001,
+    "base_channels": 16,
+    "val_miou": 0.0413,
+    "val_pixel_acc": 0.6978,
+    "elapsed_min": 2.69
+  },
+  "SBD_exp2_more_epochs": {
+    "epochs": 10,
+    "lr": 0.0005,
+    "base_channels": 16,
+    "val_miou": 0.0437,
+    "val_pixel_acc": 0.7057,
+    "elapsed_min": 2.86
+  },
+  "SBD_exp3_larger_model": {
+    "epochs": 5,
+    "lr": 0.001,
+    "base_channels": 32,
+    "val_miou": 0.0408,
+    "val_pixel_acc": 0.6991,
+    "elapsed_min": 3.25
+  }
+}
