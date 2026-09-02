@@ -7,10 +7,10 @@ Two projects: Project #1 covers classical image processing and feature extractio
 
 ## Contents
 
-| Folder | Project | Deadline |
-|---|---|---|
-| [`CV-project-1/CV-project-1/CV-Project#1/`](<CV-project-1/CV-project-1/CV-Project#1>) | Project #1: classical image processing, 8 exercises | 29/05/2026 |
-| [`project-2/CV-project2/`](<project-2/CV-project2>) | Project #2: deep learning, 3 exercises (segmentation x2, CNN vs ViT) | 28/06/2026 |
+| Folder | Project  |
+|---|---|
+| [`CV-project-1/CV-project-1/CV-Project#1/`](<CV-project-1/CV-project-1/CV-Project#1>) | Project #1: classical image processing, 8 exercises |
+| [`project-2/CV-project2/`](<project-2/CV-project2>) | Project #2: deep learning, 3 exercises (segmentation x2, CNN vs ViT) |
 
 Each folder also holds the corresponding written report as a PDF; both reports are effectively a rendered write-up of the same code and results described below.
 
